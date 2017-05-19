@@ -1,5 +1,6 @@
 
 node_modules/
 ChatApp/app/node_modules/
-Groupmeeting/app/video/*.mp4
-Groupmeeting/node_modules/
+GroupmeetingApp/app/video/*.mp4
+GroupmeetingApp/app/video/*.webm
+GroupmeetingApp/node_modules/
