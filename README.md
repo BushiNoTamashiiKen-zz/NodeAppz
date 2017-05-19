@@ -1,5 +1,5 @@
 # NodeAppz
-A living jar of Node.js and related JS web-app cookies
+A living jar of Node and other related JS web-app goodies
 
 # Run
 Node chat.js
