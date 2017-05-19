@@ -1,4 +1,5 @@
 
 node_modules/
+ChatApp/app/node_modules/
 Groupmeeting/app/video/*.mp4
 Groupmeeting/node_modules/
