@@ -7,4 +7,5 @@ Chat App | ~ Node chat.js
 GroupMeeting App | ~ gulp launch-app
 
 # Render View
-Monitor console 
+Monitor console
+Launch Browser 
