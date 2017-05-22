@@ -1,5 +1,5 @@
 # NodeAppz
-A living jar of Node and other related JS web-app goodies
+A living organism composed of Node and related JS web-app cells
 
 # Run
 Chat App | ~ Node chat.js
