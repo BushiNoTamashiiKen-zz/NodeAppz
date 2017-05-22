@@ -2,9 +2,9 @@
 A living jar of Node and other related JS web-app goodies
 
 # Run
-Chat App | ~Node chat.js
+Chat App | ~ Node chat.js
 #
-GroupMeeting App | ~gulp launch-app
+GroupMeeting App | ~ gulp launch-app
 
 # Render View
 Monitor console 
